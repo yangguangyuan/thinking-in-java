@@ -9,6 +9,6 @@ public class Connection {
     }  
       
     public static Connection makeConnection(){  
-        return connection;  
+        return connection;
     }  
 }
