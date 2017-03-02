@@ -17,7 +17,6 @@ public class Exercise6 {
 	}
 }
 
-
 class Test66  {  
 	protected String str2="value2";  
 } 

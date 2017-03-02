@@ -10,6 +10,6 @@ public class Exercise2 {
 	public static void main(String[] args) {
 		Exercise1 exercise1 = new Exercise1();
 		Exercise3 exercise3 = new Exercise3();
-		
+		System.err.println();
 	}
 }
