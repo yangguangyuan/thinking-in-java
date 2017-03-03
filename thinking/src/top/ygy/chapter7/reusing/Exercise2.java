@@ -1,5 +1,7 @@
 package top.ygy.chapter7.reusing;
 
+import top.ygy.chapter7.reusing.test.print;
+
 /**
  * @ClassName: Exercise2 
  * @Description: TODO(从Detergent中继承产生一个新的类。覆盖scrub()并添加一个名为sterilize()的新方法。) 
@@ -20,11 +22,6 @@ public class Exercise2 {
 }
 
 
-class print{  
-    print(Object obj){  
-        System.out.println(obj);  
-    }  
-}  
 class Cleanser{  
     private String s="Cleanser";  
     public void append(String a){  

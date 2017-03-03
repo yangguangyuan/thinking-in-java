@@ -1,5 +1,7 @@
 package top.ygy.chapter7.reusing;
 
+import top.ygy.chapter7.reusing.test.print;
+
 /**
  * @ClassName: Exercise5 
  * @Description: TODO(创建两个带有默认构造器（空参数列表）的类A和类B。从A中继承产生一个名为C的新，
