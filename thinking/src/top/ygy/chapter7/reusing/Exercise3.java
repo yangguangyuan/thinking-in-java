@@ -1,5 +1,7 @@
 package top.ygy.chapter7.reusing;
 
+import top.ygy.chapter7.reusing.test.print;
+
 /**
  * @ClassName: Exercise3 
  * @Description: TODO(练习3（2)证明前面两句话（即使你不为Cartoon创建构造器，

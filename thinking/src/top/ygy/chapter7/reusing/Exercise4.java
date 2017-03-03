@@ -1,5 +1,7 @@
 package top.ygy.chapter7.reusing;
 
+import top.ygy.chapter7.reusing.test.print;
+
 /**
  * @ClassName: Exercise4 
  * @Description: TODO(证明基类构造器总是会被调用，在导出类构造器之前被调用。) 
